@@ -30,27 +30,27 @@ Based in **Cologne, Germany** 📍
 **Core Languages**
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,bash&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,ts,bash&theme=light" />
-    <img src="https://skillicons.dev/icons?i=py,ts,bash&theme=dark" alt="Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cbash&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cbash&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py%2Cts%2Cbash&theme=dark" alt="Languages" />
   </picture>
 </p>
 
 **Frameworks & Runtimes**
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=django,fastapi,nodejs,nextjs,flutter&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=django,fastapi,nodejs,nextjs,flutter&theme=light" />
-    <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,nextjs,flutter&theme=dark" alt="Frameworks" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=django%2Cfastapi%2Cnodejs%2Cnextjs%2Cflutter&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=django%2Cfastapi%2Cnodejs%2Cnextjs%2Cflutter&theme=light" />
+    <img src="https://skillicons.dev/icons?i=django%2Cfastapi%2Cnodejs%2Cnextjs%2Cflutter&theme=dark" alt="Frameworks" />
   </picture>
 </p>
 
 **Cloud & Databases**
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,firebase,postgres,mysql,redis,docker,githubactions&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,firebase,postgres,mysql,redis,docker,githubactions&theme=light" />
-    <img src="https://skillicons.dev/icons?i=linux,firebase,postgres,mysql,redis,docker,githubactions&theme=dark" alt="Infra & Data" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux%2Cfirebase%2Cpostgres%2Cmysql%2Credis%2Cdocker%2Cgithubactions&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux%2Cfirebase%2Cpostgres%2Cmysql%2Credis%2Cdocker%2Cgithubactions&theme=light" />
+    <img src="https://skillicons.dev/icons?i=linux%2Cfirebase%2Cpostgres%2Cmysql%2Credis%2Cdocker%2Cgithubactions&theme=dark" alt="Infra & Data" />
   </picture>
   <br>
   DigitalOcean • Hetzner
@@ -59,25 +59,15 @@ Based in **Cologne, Germany** 📍
 **Workflow & Testing**
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,neovim,pycharm,cypress&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,neovim,pycharm,cypress&theme=light" />
-    <img src="https://skillicons.dev/icons?i=git,neovim,pycharm,cypress&theme=dark" alt="Tools" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cneovim%2Cpycharm%2Ccypress&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git%2Cneovim%2Cpycharm%2Ccypress&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git%2Cneovim%2Cpycharm%2Ccypress&theme=dark" alt="Tools" />
   </picture>
   <br>
   Pytest • REST • Trello • Asana
 </p>
 
 <br>
-
----
-
-## 📊 GitHub Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mrong&show_icons=true&bg_color=1c2530&text_color=f5f7fa&icon_color=ff3d57&title_color=ff3d57&border_color=31465b" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mrong&show_icons=true&bg_color=ffffff&text_color=1c2530&icon_color=ff3d57&title_color=1c2530&border_color=d1dce6" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mrong&show_icons=true&bg_color=1c2530&text_color=f5f7fa&icon_color=ff3d57&title_color=ff3d57&border_color=31465b" alt="GitHub Stats" />
-</picture>
 
 ---
 
@@ -110,7 +100,7 @@ Whether you have a detailed specification or just a rough idea on a napkin — I
 </picture>
 </a>
 
-<br>
+<br><br>
 
 *Available for remote and local projects.*
 
