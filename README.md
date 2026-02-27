@@ -49,6 +49,8 @@ I build web and mobile applications end-to-end — from concept to production.
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
+<img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white" alt="Hetzner" />
 
 <br>
 
@@ -84,7 +86,5 @@ Whether you have a detailed specification or just a rough idea on a napkin — I
 </a>
 
 <br><br>
-
-*Available for remote and local projects.*
 
 </div>
