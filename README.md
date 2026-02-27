@@ -1,6 +1,6 @@
 <div align="center">
 
-# Michael Rong
+# Hi 👋, I'm Michael Rong
 
 **Software Engineer • Linux Enthusiast • Endurance Athlete • Dad**
 
@@ -16,56 +16,39 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑 About Me
 
-As a **Project Lead**, I build web and mobile applications from the first line of code
-to production — focused on clean APIs, tested code, and scalable architecture.
-
-Based in **Cologne, Germany** 📍
+I'm a freelance software developer based in **Cologne, Germany** 📍<br>
+I build web and mobile applications end-to-end — from concept to production.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Core Languages**
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cbash&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cbash&theme=light" />
-    <img src="https://skillicons.dev/icons?i=py%2Cts%2Cbash&theme=dark" alt="Languages" />
-  </picture>
-</p>
+**Languages**
 
-**Frameworks & Runtimes**
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=django%2Cfastapi%2Cnodejs%2Cnextjs%2Cflutter&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=django%2Cfastapi%2Cnodejs%2Cnextjs%2Cflutter&theme=light" />
-    <img src="https://skillicons.dev/icons?i=django%2Cfastapi%2Cnodejs%2Cnextjs%2Cflutter&theme=dark" alt="Frameworks" />
-  </picture>
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
 
-**Cloud & Databases**
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux%2Cfirebase%2Cpostgres%2Cmysql%2Credis%2Cdocker%2Cgithubactions&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux%2Cfirebase%2Cpostgres%2Cmysql%2Credis%2Cdocker%2Cgithubactions&theme=light" />
-    <img src="https://skillicons.dev/icons?i=linux%2Cfirebase%2Cpostgres%2Cmysql%2Credis%2Cdocker%2Cgithubactions&theme=dark" alt="Infra & Data" />
-  </picture>
-  <br>
-  DigitalOcean • Hetzner
-</p>
+**Frameworks**
 
-**Workflow & Testing**
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cneovim%2Cpycharm%2Ccypress&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git%2Cneovim%2Cpycharm%2Ccypress&theme=light" />
-    <img src="https://skillicons.dev/icons?i=git%2Cneovim%2Cpycharm%2Ccypress&theme=dark" alt="Tools" />
-  </picture>
-  <br>
-  Pytest • REST • Trello • Asana
-</p>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+
+**Databases**
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+
+**Infrastructure**
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 
 <br>
 
